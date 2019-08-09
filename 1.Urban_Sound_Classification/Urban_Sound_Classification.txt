@@ -1,4 +1,0 @@
-Urban Sound Classification
-When you start your machine learning journey, you go with simple machine learning problems like titanic survival prediction. But you still don’t have enough practice when it comes to real life problems. Hence, this practice problem is meant to introduce you to audio processing in the usual classification scenario. This dataset consists of 8,732 sound excerpts of urban sounds from 10 classes.
-
-Problem: Classify the type of sound from the audio.
