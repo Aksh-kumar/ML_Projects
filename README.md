@@ -19,4 +19,9 @@ they want to build a model to predict the purchase amount.
 8000+ sound from 10 classes predict the class label in which
 it belongs to.
 
+(Time series Forcasting)
+4. Time series analysis of minimum temperature from dataset contain
+about 3500+ sample of timeseries minimum temperature data using
+Autoregression model.
+
 Details of the process is mentioned in each IPython notebook and data of first 2 i.e iris and black friday present in repositoty section itself but for deep learning project data is present on https://drive.google.com/drive/folders/0By0bAi7hOBAFUHVXd1JCN3MwTEU because of large volume.If any help assist is required you can directly mail me at resakash1498@gmail.com, I am happy to answer.
