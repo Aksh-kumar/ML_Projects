@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Human_Activity_Recognition
+/Human_Activity_Recognition/UCI HAR Dataset/test/*
+/Human_Activity_Recognition/UCI HAR Dataset/train/*
+
+#notMNIST
+/notMNIST/notMNIST_large/*
+/notMNIST/notMNIST_small/*
+!/notMNIST/notMNIST_small/.gitkeep
+!/notMNIST/notMNIST_large/.gitkeep
 # C extensions
 *.so
 
