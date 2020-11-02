@@ -10,6 +10,9 @@ __pycache__/
 #notMNIST
 /notMNIST/notMNIST_large/*
 /notMNIST/notMNIST_small/*
+/notMNIST/AugumentedImage/*
+/notMNIST/logistic_reg_30000_ebc80f6d2e18afef7fba8e3cbcc7c4c9df2152b31f4472d7045801787c845943.pickle
+/notMNIST/tr_set_30000_val_20000_test_all.pickle
 !/notMNIST/notMNIST_small/.gitkeep
 !/notMNIST/notMNIST_large/.gitkeep
 # C extensions
